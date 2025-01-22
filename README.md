@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Alexandre Lachance
-- 🎓 I have an undergraduate degree in Computer Science and Software Engineering from UQAM
-- 🌱 I’m currently doing a Software Engineering MASc at McMaster University
+- 🎓 I have a Master’s degree in Software Engineering from McMaster University and an Honours B.A.Sc. in Computer Science and Software Engineering from UQAM
+- 💡 My expertise includes developing tools and frameworks for domain-specific languages (DSLs)
+- 🔧 Skills: Rust, Python, TypeScript, Docker, and more
 - 📫 You can reach me at alexandrelachance@me.com
